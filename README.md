@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blue-BigTech</h1>
 <h3 align="center">Senior Full Stack & Blockchain Expert</h3>
 
-- 📫 How to reach me **blue.bigteck@gmail.com**
+- 📫 How to reach me **blue.bigtech@gmail.com**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
