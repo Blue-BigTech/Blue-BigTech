@@ -86,7 +86,30 @@
       height="40"
     />
   </a>
-
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+      alt="rust"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      alt="nestjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -129,6 +152,38 @@
       height="40"
     />
   </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"
+      alt="qt"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+      alt="nuxtjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+      alt="unity"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -157,14 +212,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
       alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
       width="40"
       height="40"
     />
@@ -225,22 +272,6 @@
       height="40"
     />
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -253,38 +284,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-      alt="nuxtjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"
-      alt="qt"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-      alt="rust"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
       width="40"
       height="40"
     />
