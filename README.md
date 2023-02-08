@@ -23,8 +23,11 @@
 </h1>
 
 <div align="center">
-  <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-developers-3574980-3017316.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline="" type="video/mp4"     width="600"
-    height="300"></video>
+<img
+    src="https://raw.githubusercontent.com/Blue-BigTech/Moonhub-Images/master/pair_programming.svg"
+    width="600"
+    height="300"
+  />
   
 </div>
 
