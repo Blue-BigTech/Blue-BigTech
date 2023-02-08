@@ -24,7 +24,7 @@
 
 <div align="center">
   <img
-    src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
+    src="https://raw.githubusercontent.com/Blue-BigTech/Moonhub-Images/master/pair_programming.svg"
     width="600"
     height="300"
   />
