@@ -26,7 +26,7 @@
 <img
     src="https://raw.githubusercontent.com/Blue-BigTech/Moonhub-Images/master/pair_programming.svg"
     width="600"
-    height="300"
+    height="340"
   />
   
 </div>
