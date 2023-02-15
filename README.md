@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blue-BigTech</h1>
-<h3 align="center">Senior Full Stack & Blockchain Expert</h3>
+<h3 align="center">Senior Full Stack & Web3 Expert</h3>
 
 <p align="center">
   <img
