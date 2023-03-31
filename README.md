@@ -1,27 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blue-BigTech</h1>
 <h3 align="center">Senior Full Stack & Web3 Expert</h3>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"
-  />
-</p>
-
-<div id="header" align="center">
-  <img
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-    width="100"
-  />
-</div>
-
-<h1 align="center">
-  Hey there!
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="30px"
-  />
-</h1>
-
 <div align="center">
 <img
     src="https://raw.githubusercontent.com/Blue-BigTech/Moonhub-Images/master/pair_programming.svg"
